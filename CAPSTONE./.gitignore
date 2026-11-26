@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local runtime data and model artifacts
+uploads/
+model/
+*.keras
+*.h5
+*.weights.h5
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and local environment
+*.log
+.env
+.env.*
